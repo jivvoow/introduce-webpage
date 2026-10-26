@@ -42,5 +42,5 @@ HTML, CSS, JavaScript를 활용하여 제작한 자기소개 웹사이트입니�
 
 ## Contact
 * **Email:** [dorosi211@gmail.com](mailto:dorosi211@gmail.com)
-* **Blog:** [Naver Blog](https://blog.naver.com/jivvooo)
+* **Velog:** [velog](https://velog.io/@jivvoow/posts)
 * **GitHub:** [github.com/jivvoow](https://github.com/jivvoow)
