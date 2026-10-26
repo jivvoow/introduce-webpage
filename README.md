@@ -5,7 +5,7 @@
 HTML, CSS, JavaScript를 활용하여 제작한 자기소개 웹사이트입니다.
 
 ## 🔗 Live Demo
-> **웹사이트 바로가기:** [jiwoolee211.github.io/introduce-webpage](https://jiwoolee211.github.io/introduce-webpage/)
+> **웹사이트 바로가기:** [jivvoow.github.io/introduce-webpage](https://jivvoow.github.io/introduce-webpage/)
 
 ---
 
@@ -43,4 +43,4 @@ HTML, CSS, JavaScript를 활용하여 제작한 자기소개 웹사이트입니�
 ## Contact
 * **Email:** [dorosi211@gmail.com](mailto:dorosi211@gmail.com)
 * **Blog:** [Naver Blog](https://blog.naver.com/jivvooo)
-* **GitHub:** [github.com/JiwooLee211](https://github.com/jiwoolee211)
+* **GitHub:** [github.com/jivvoow](https://github.com/jivvoow)
